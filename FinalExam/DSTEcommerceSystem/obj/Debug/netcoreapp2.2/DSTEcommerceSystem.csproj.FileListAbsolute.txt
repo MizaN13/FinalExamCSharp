@@ -1,0 +1,11 @@
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\bin\Debug\netcoreapp2.2\DSTEcommerceSystem.deps.json
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\bin\Debug\netcoreapp2.2\DSTEcommerceSystem.runtimeconfig.json
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\bin\Debug\netcoreapp2.2\DSTEcommerceSystem.runtimeconfig.dev.json
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\bin\Debug\netcoreapp2.2\DSTEcommerceSystem.dll
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\obj\Debug\netcoreapp2.2\DSTEcommerceSystem.csproj.CoreCompileInputs.cache
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\obj\Debug\netcoreapp2.2\DSTEcommerceSystem.AssemblyInfoInputs.cache
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\obj\Debug\netcoreapp2.2\DSTEcommerceSystem.AssemblyInfo.cs
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\obj\Debug\netcoreapp2.2\DSTEcommerceSystem.csprojAssemblyReference.cache
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\bin\Debug\netcoreapp2.2\DSTEcommerceSystem.pdb
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\obj\Debug\netcoreapp2.2\DSTEcommerceSystem.dll
+D:\ProfessionalCSharpProgramming\FinalExam\DSTEcommerceSystem\obj\Debug\netcoreapp2.2\DSTEcommerceSystem.pdb

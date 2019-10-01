@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ProfessionalCSharpProgramming\\FinalExam\\DSTEcommerceSystem\\DSTEcommerceSystem.csproj": {}
+  },
+  "projects": {
+    "D:\\ProfessionalCSharpProgramming\\FinalExam\\DSTEcommerceSystem\\DSTEcommerceSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProfessionalCSharpProgramming\\FinalExam\\DSTEcommerceSystem\\DSTEcommerceSystem.csproj",
+        "projectName": "DSTEcommerceSystem",
+        "projectPath": "D:\\ProfessionalCSharpProgramming\\FinalExam\\DSTEcommerceSystem\\DSTEcommerceSystem.csproj",
+        "packagesPath": "C:\\Users\\MizaN\\.nuget\\packages\\",
+        "outputPath": "D:\\ProfessionalCSharpProgramming\\FinalExam\\DSTEcommerceSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "H:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MizaN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

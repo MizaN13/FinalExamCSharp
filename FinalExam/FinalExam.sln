@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{6DB71155-F853-4E71-8027-2BDBF9E4967F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{95095459-1F6E-4646-A58B-66F8BC08F781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSTEcommerceSystem", "DSTEcommerceSystem\DSTEcommerceSystem.csproj", "{FF7E9830-5861-4231-A1DA-DC264850F476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7E9830-5861-4231-A1DA-DC264850F476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7E9830-5861-4231-A1DA-DC264850F476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7E9830-5861-4231-A1DA-DC264850F476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7E9830-5861-4231-A1DA-DC264850F476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FF7E9830-5861-4231-A1DA-DC264850F476} = {95095459-1F6E-4646-A58B-66F8BC08F781}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06742F4D-629A-4C9E-8CA1-D8806FC27E0A}
+	EndGlobalSection
+EndGlobal
